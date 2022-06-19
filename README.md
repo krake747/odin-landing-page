@@ -8,3 +8,5 @@ The html part was done first. Afterwards, the css styling was applied.
 
 - HTML
 - CSS Flex
+
+Github Page Preview: https://krake747.github.io/odin-landing-page/
